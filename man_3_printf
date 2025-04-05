@@ -70,3 +70,9 @@ return (0);
 
 
 In example Code 2 printf("%d", 5, 6, 7, "hello"); will print 5, but the presence of the extra arguments is problematic and can lead to undefined behavior.
+
+
+.SH AUTHORS
+Babak Yusifov  https://github.com/babakyusifov
+.br
+Elshad Yusifov https://github.com/elshadyusifov
