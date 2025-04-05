@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Overview
 This project implements a custom version of the C printf function, called _printf, which handles various format specifiers. The goal is to replicate the functionality of the standard printf function, while ensuring it adheres to the constraints and requirements of the project.
 
@@ -217,3 +218,7 @@ Copy
 man ./man_3_printf
 License
 This project is open-source and free to use, modify, and distribute. It follows the principles of the MIT License.
+=======
+# holbertonschool-printf
+## hi C
+>>>>>>> 367426cbcf62acf12f9819b1474c7882b1bb36cf
