@@ -46,6 +46,5 @@ int print_number(int num)
 		divisor /= 10;
 		i++;
 	}
-
 	return (len);
 }
